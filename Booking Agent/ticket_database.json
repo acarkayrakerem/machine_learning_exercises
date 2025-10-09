@@ -1,0 +1,32 @@
+{
+    "london": {
+        "price": "$799",
+        "airline": "British Airways",
+        "duration": "7h 30m",
+        "availability": "1"
+    },
+    "paris": {
+        "price": "$899",
+        "airline": "Air France",
+        "duration": "8h 15m",
+        "availability": "6"
+    },
+    "tokyo": {
+        "price": "$1400",
+        "airline": "Japan Airlines",
+        "duration": "14h 20m",
+        "availability": "36"
+    },
+    "berlin": {
+        "price": "$499",
+        "airline": "Lufthansa",
+        "duration": "6h 45m",
+        "availability": "0"
+    },
+    "istanbul": {
+        "price": "$99",
+        "airline": "AcarAirlines",
+        "duration": "1h 45m",
+        "availability": "15"
+    }
+}
